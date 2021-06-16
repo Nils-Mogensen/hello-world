@@ -1,8 +1,5 @@
 # hello-world
-My first Repository
-Hello klarna
-hello kalrna year 2
-hello klarna year 3
-Hello Y 4
-hello klarna year 4
-hello klarna year 5
+##*This program is the first thing I write with Python, and I will use the 3.9.4 version*
+**The Goal of this script is to print the words "Hello world", and learn abit about how Git functions.**
+
+######~~give up~~
